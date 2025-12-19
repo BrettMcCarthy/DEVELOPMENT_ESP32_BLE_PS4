@@ -1,0 +1,76 @@
+#######################################
+# Syntax Coloring Map For PS4Controller
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PS4Controller	KEYWORD1
+ps4_t	KEYWORD1
+ps4_event_t	KEYWORD1
+ps4_button_t	KEYWORD1
+ps4_analog_t	KEYWORD1
+ps4_sensor_t	KEYWORD1
+ps4_status_t	KEYWORD1
+ps4_cmd_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+isConnected	KEYWORD2
+attach	KEYWORD2
+attachOnConnect	KEYWORD2
+attachOnDisconnect	KEYWORD2
+setLed	KEYWORD2
+setRumble	KEYWORD2
+setFlashRate	KEYWORD2
+sendToController	KEYWORD2
+
+Left	KEYWORD2
+Down	KEYWORD2
+Right	KEYWORD2
+Up	KEYWORD2
+Square	KEYWORD2
+Cross	KEYWORD2
+Circle	KEYWORD2
+Triangle	KEYWORD2
+UpLeft	KEYWORD2
+UpRight	KEYWORD2
+DownLeft	KEYWORD2
+DownRight	KEYWORD2
+L1	KEYWORD2
+L2	KEYWORD2
+L3	KEYWORD2
+R1	KEYWORD2
+R2	KEYWORD2
+R3	KEYWORD2
+Share	KEYWORD2
+Options	KEYWORD2
+PSButton	KEYWORD2
+Touchpad	KEYWORD2
+
+LStickX	KEYWORD2
+LStickY	KEYWORD2
+RStickX	KEYWORD2
+RStickY	KEYWORD2
+L2Value	KEYWORD2
+R2Value	KEYWORD2
+
+Battery	KEYWORD2
+Charging	KEYWORD2
+Audio	KEYWORD2
+Mic	KEYWORD2
+
+SensorX	KEYWORD2
+SensorY	KEYWORD2
+SensorZ	KEYWORD2
+GyroZ	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PS4	LITERAL1
