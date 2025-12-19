@@ -11,7 +11,7 @@
 #define GAP_EVT_CONN_CLOSED 0x0101
 #define GAP_EVT_CONN_DATA_AVAIL 0x0102
 #define GAP_EVT_CONN_CONGESTED 0x0103
-#define GAP_EVT_CONN_UNCONGESTED 0x01043
+#define GAP_EVT_CONN_UNCONGESTED 0x0104
 
 /*** used in connection variables and functions ***/
 #define GAP_INVALID_HANDLE 0xFFFF

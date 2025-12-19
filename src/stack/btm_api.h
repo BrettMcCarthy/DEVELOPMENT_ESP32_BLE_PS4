@@ -49,7 +49,7 @@
 ** Description      Register service security level with Security Manager.  Each
 **                  service must register its requirements regardless of the
 **                  security level that is used.  This API is called once for originators
-**                  nad again for acceptors of connections.
+**                  and again for acceptors of connections.
 **
 ** Returns          TRUE if registered OK, else FALSE
 **
